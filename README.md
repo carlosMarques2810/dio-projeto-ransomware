@@ -31,7 +31,6 @@ Este projeto foi desenvolvido com o objetivo de **estudar e demonstrar o funcion
 * **Linguagem & Core:**
     * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     * ![Segurança da Informação](https://img.shields.io/badge/Segurança%20da%20Informação-2C3E50?style=for-the-badge)
-    * ![Criptografia](https://img.shields.io/badge/Criptografia-AES-27AE60?style=for-the-badge)
 
 * **Bibliotecas & Conceitos:**
     * ![Cryptography](https://img.shields.io/badge/cryptography-Fernet-8E44AD?style=for-the-badge)
