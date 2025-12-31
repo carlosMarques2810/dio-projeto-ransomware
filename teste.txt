@@ -1,0 +1,46 @@
+*** CREDENCIAIS DE ACESSO – USO INTERNO ***
+
+Sistema: Infraestrutura Corporativa
+Servidor: AUTH-SRV-01
+Ambiente: Produção
+Data do último acesso: 10/08/2025
+
+ATENÇÃO:
+Este arquivo contém credenciais de acesso a sistemas críticos.
+O acesso não autorizado pode comprometer toda a infraestrutura.
+
+----------------------------------------
+Usuário: admin_root
+Perfil: Administrador Geral
+Senha: Adm!n_Prod#2025
+Permissões: TOTAL
+----------------------------------------
+Usuário: financeiro_srv
+Perfil: Serviço Financeiro
+Senha: Fin@Srv_8891
+Permissões: Leitura / Escrita
+----------------------------------------
+Usuário: ti_suporte
+Perfil: Suporte Técnico
+Senha: SupT1@2025
+Permissões: Suporte / Manutenção
+----------------------------------------
+Usuário: backup_agent
+Perfil: Serviço de Backup
+Senha: B@ckup_Agent!
+Permissões: Backup / Restore
+----------------------------------------
+Usuário: auditor_ext
+Perfil: Auditoria Externa
+Senha: Aud!t_Review
+Permissões: Somente Leitura
+----------------------------------------
+
+Observações:
+- Credenciais armazenadas temporariamente para manutenção.
+- Arquivo não criptografado representa alto risco de segurança.
+- Em caso de indisponibilidade, sistemas críticos ficam inacessíveis.
+
+Backup:
+Última verificação: 03/08/2025
+Status: INCOMPLETO
